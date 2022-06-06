@@ -1,2 +1,2 @@
 # FunkEditor
-A FNF chart editor made for be simple, lightweight and easy to understand.
+A FNF chart editor made to be simple, lightweight and easy to understand.
